@@ -19,6 +19,7 @@
     "@typescript-eslint"
   ],
   "rules": {
+    "consistent-return":"off",
     "class-methods-use-this": "off",
     "prettier/prettier": "error",
     "import/extensions": [
